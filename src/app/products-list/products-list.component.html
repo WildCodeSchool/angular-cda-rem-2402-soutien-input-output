@@ -1,0 +1,5 @@
+<app-filter-products (filterEmit)="receiveFilter($event)" [title]="'Électronique'"></app-filter-products>
+<app-filter-products (filterEmit)="receiveFilter($event)" [title]="'Appareils ménagers'"></app-filter-products>
+<app-filter-products (filterEmit)="receiveFilter($event)" [title]="'Livres'"></app-filter-products>
+
+<app-product *ngFor="let product of filteredProducts" [product]="product"></app-product>

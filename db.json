@@ -1,0 +1,55 @@
+{
+  "products": 
+    [
+      {
+        "name": "Smartphone Pro 12",
+        "category": "Électronique",
+        "price": 999.99
+      },
+      {
+        "name": "Casque Audio Sans Fil",
+        "category": "Électronique",
+        "price": 199.99
+      },
+      {
+        "name": "Robot de Cuisine Multifonction",
+        "category": "Appareils ménagers",
+        "price": 499.99
+      },
+      {
+        "name": "Livre de Cuisine Végétarienne",
+        "category": "Livres",
+        "price": 29.99
+      },
+      {
+        "name": "T-shirt Graphique",
+        "category": "Vêtements",
+        "price": 19.99
+      },
+      {
+        "name": "Puzzle 1000 pièces - Paysage Montagneux",
+        "category": "Jeux",
+        "price": 24.99
+      },
+      {
+        "name": "Lampe de Bureau LED",
+        "category": "Mobilier",
+        "price": 39.99
+      },
+      {
+        "name": "Sac à Dos Randonnée 30L",
+        "category": "Sport & Plein air",
+        "price": 79.99
+      },
+      {
+        "name": "Montre Connectée Fitness",
+        "category": "Accessoires",
+        "price": 149.99
+      },
+      {
+        "name": "Chaise Ergonomique Bureau",
+        "category": "Mobilier",
+        "price": 229.99
+      }
+    ]
+}
